@@ -45,8 +45,8 @@ flask-devops-app/
 
 ###  Run the Flask App Locally
 
-git clone https://github.com/yatindrap6/flask-devops-app.git
-cd flask-devops-app
+git clone https://github.com/vinsen007/flask-devops-project.git
+cd flask-devops-project
 pip install -r requirements.txt
 python app.py
 
@@ -55,14 +55,14 @@ pytest
 
 Docker Usage
 Build Docker Image
-docker build -t flask-devops-app .
+docker build -t flask-devops-project .
 
 Run Docker Container
-docker run -d -p 5000:5000 flask-devops-app
+docker run -d -p 5000:5000 flask-devops-project
 
 Output Example
 When the app is running:
 Hello, DevOps World! CI/CD Pipeline is Working 🚀
 
 Author
-Yatindra Panchal
+Vinayak sen
