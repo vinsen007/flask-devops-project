@@ -1,4 +1,4 @@
-# Flask DevOps App with Jenkins CI/CD Pipeline
+### Flask DevOps App with Jenkins CI/CD Pipeline
 
 This repository contains a Python Flask web application integrated with a full DevOps CI/CD pipeline using **Jenkins**, **Docker**, and **GitHub**, deployed on an **AWS EC2 instance**.
 
